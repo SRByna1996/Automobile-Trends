@@ -8,7 +8,7 @@ import {
 /* AP districts sample */
 const AP_DISTRICTS = [
   "Anantapur","Chittoor","East Godavari","Guntur","Kadapa","Krishna","Kurnool","Prakasam",
-  "Nellore","Srikakulam","Visakhapatnam","Vizianagaram","West Godavari"
+  "SPSR Nellore","Srikakulam","Visakhapatnam","Vizianagaram","West Godavari"
 ];
 
 /* deterministic demo generator for district pollution (today + last 5 days) */

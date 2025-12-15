@@ -25010,7 +25010,7 @@ var _s = $RefreshSig$();
     "Krishna",
     "Kurnool",
     "Prakasam",
-    "Nellore",
+    "SPSR Nellore",
     "Srikakulam",
     "Visakhapatnam",
     "Vizianagaram",

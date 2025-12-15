@@ -1,6 +1,6 @@
 # 🚗 Automobile Prognosticator – Andhra Pradesh Smart Trends Dashboard
 ### *Vehicle Trends • Traffic Forecast • Pollution Analytics • AP District Insights*
-#### Developed by: **Srinivasulu Byna**
+#### Developed by: **Srinivasulu **
 
 ---
 
